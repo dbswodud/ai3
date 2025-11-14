@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["치킨맛있겠다"],
-       "images": ["https://www.bhc.co.kr/upload/bhc/menu/HOT%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C_%ED%95%9C%EB%A7%88%EB%A6%AC_410x271.jpg"],
+       "images": ["https://lh3.googleusercontent.com/proxy/3n_dlAI6THQrGbfzQk_kVsmaiV3pncMvdQA7fAaNZRV0irUZsw7bntYLg3N6jIEKDehQShBFM3fPV6xocvcEJy9aSBLPjXaLz9Swoe9cEqsfwSjMBsJ1lMvDF0gCecd_GDF2DZ5sG_qF"],
        "videos": ["https://www.youtube.com/shorts/5Zz70V8d1mo"]
      },
 
