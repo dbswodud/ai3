@@ -87,7 +87,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "videos": ["https://www.youtube.com/shorts/_LgVBUG8kwc"]
      },
     
-
+}
 with st.spinner("🤖 모델 로드 중..."):
     learner = load_model_from_drive(FILE_ID, MODEL_PATH)
 st.success("✅ 모델 로드 완료")
