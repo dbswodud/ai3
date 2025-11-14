@@ -80,8 +80,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://gi.esmplus.com/lwwin2104/%EB%9D%B5%EA%B5%B4%EB%A7%88%EC%BC%93/%EB%B0%80%ED%82%A4%ED%8A%B8/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80_%EC%A0%9C%ED%92%88%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg"],
        "videos": ["https://www.youtube.com/shorts/3_09OfIZeY4"]
      },
-     labels[2]: {
-       "texts": ["피자   return load_learner(output_path, cpu=True)
+   
+    labels[2]: {
+       "texts": ["피자맛있겠다"],
+       "images": ["https://img.hankyung.com/photo/202503/AA.39786907.1.jpg"],
+       "videos": ["https://www.youtube.com/shorts/_LgVBUG8kwc"]
+     },
+    
 
 with st.spinner("🤖 모델 로드 중..."):
     learner = load_model_from_drive(FILE_ID, MODEL_PATH)
