@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["치킨맛있겠다"],
-       "images": ["https://lh3.googleusercontent.com/proxy/3n_dlAI6THQrGbfzQk_kVsmaiV3pncMvdQA7fAaNZRV0irUZsw7bntYLg3N6jIEKDehQShBFM3fPV6xocvcEJy9aSBLPjXaLz9Swoe9cEqsfwSjMBsJ1lMvDF0gCecd_GDF2DZ5sG_qF"],
+       "images": ["https://dumbchicken.co.kr/wp-content/uploads/2024/05/%EB%8D%A4%ED%94%84%EC%B9%98%ED%82%A80457-copy.jpg"],
        "videos": ["https://www.youtube.com/shorts/5Zz70V8d1mo"]
      },
 
